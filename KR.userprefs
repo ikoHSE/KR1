@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4C6DB024-2B7E-4F8B-A9EE-8D25899E11AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KR/Program.cs">
+    <Files>
+      <File FileName="KR/Program.cs" Line="9" Column="26" />
+      <File FileName="KR/iko.cs" Line="40" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KR PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

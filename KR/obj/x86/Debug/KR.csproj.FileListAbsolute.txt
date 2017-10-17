@@ -1,0 +1,5 @@
+/Users/ilya/Developer/HSE/KR/KR/bin/Debug/KR.exe
+/Users/ilya/Developer/HSE/KR/KR/bin/Debug/KR.pdb
+/Users/ilya/Developer/HSE/KR/KR/obj/x86/Debug/KR.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/KR/KR/obj/x86/Debug/KR.exe
+/Users/ilya/Developer/HSE/KR/KR/obj/x86/Debug/KR.pdb
